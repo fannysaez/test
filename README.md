@@ -6,3 +6,5 @@ Ceci est le texte de la branche 3.
 Mise à jour v4.1
 
 Ligne de préparation pour le conflit final
+
+Fin de l'exercice !
