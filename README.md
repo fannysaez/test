@@ -20,6 +20,28 @@ Réalisé le 29 juin 2026 dans le cadre de la formation **Simplon CDA — Clermo
 
 ---
 
+## Structure du projet
+
+```
+test/
+├── assets/
+│   ├── git-formation/
+│   │   ├── 01-introduction.md
+│   │   ├── 02-initialisation.md
+│   │   ├── 03-branche-1-et-2.md
+│   │   ├── 04-branche-3.md
+│   │   ├── 05-conflit.md
+│   │   ├── 06-finalisation.md
+│   │   ├── 07-recapitulatif.md
+│   │   └── 08-evolution-readme.md
+│   └── img/
+│       └── gitNuro/
+│           └── gitNuro.png
+└── README.md
+```
+
+---
+
 ## Aperçu de l'historique
 
 ![Capture Gitnuro — historique du dépôt test](assets/img/gitNuro/gitNuro.png)
