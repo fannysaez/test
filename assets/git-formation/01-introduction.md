@@ -20,7 +20,7 @@ Il couvre les notions essentielles : création de branches, commits successifs, 
 **Gitnuro** est un client Git graphique open source, léger et multiplateforme (Windows, macOS, Linux).  
 Il permet de visualiser l'historique des commits, gérer les branches, stager des fichiers et effectuer des pushs/pulls — sans taper de commandes dans un terminal.
 
-![Capture Gitnuro — historique du dépôt test](../img/gitNuro/gitNuro.png)
+![Capture Gitnuro — historique du dépôt test](../img/gitNuro/gitNuro.webp)
 
 | Zone | Description |
 |---|---|

@@ -44,7 +44,7 @@ test/
 
 ## Aperçu de l'historique
 
-![Capture Gitnuro — historique du dépôt test](assets/img/gitNuro/gitNuro.png)
+![Capture Gitnuro — historique du dépôt test](assets/img/gitNuro/gitNuro.webp)
 
 ---
 
