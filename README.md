@@ -27,3 +27,9 @@ Réalisé le 29 juin 2026 dans le cadre de la formation **Simplon CDA — Clermo
 ---
 
 *Documentation réalisée à partir du reflog et de l'historique complet du dépôt.*
+
+---
+
+<p align="center">
+  <a href="assets/git-formation/01-introduction.md"><img src="https://img.shields.io/badge/-COMMENCER-0d8f91?style=for-the-badge" alt="Commencer"></a>
+</p>
